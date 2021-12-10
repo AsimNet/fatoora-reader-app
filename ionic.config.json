@@ -1,5 +1,7 @@
 {
   "name": "fatoora-reader-app",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
